@@ -46,7 +46,7 @@ words[7] = new Array("c", "u", "b", "e");
 words[8] = new Array("t", "r", "a", "p", "e", "z", "o", "i", "d");
 words[9] = new Array("r", "e", "c", "t", "a", "n", "g", "l", "e");
 words[10] = new Array("r", "h", "o", "m", "b", "u", "s");
-words[11] = new Array("p", "a", "r", "a", "l", "l", "e", "l", "o", "g", "a", "m");
+words[11] = new Array("p", "a", "r", "a", "l", "l", "e", "l", "o", "g", "r", "a", "m");
 
 //On start, computer chooses random number between 0 and words.length as index to choose the randomWord
 var randomWord = words[Math.floor(Math.random() * words.length)];
